@@ -1,0 +1,38 @@
+h1 {
+    color: blueviolet;
+}
+
+.header {
+    background-color: greenyellow;
+    border: solid;
+    border-color: black;
+    display: flex;
+    justify-content: space-evenly;
+        
+}
+
+.description {
+    background-color: palevioletred;
+    border: solid;
+    border-color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+.gamesAll {
+    display: flex;
+    background-color: peru;
+    border: solid;
+    border-color: black;
+   justify-content: space-around; 
+   
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    text-align: center;
+   
+    
+
+}
